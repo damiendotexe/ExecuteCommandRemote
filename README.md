@@ -8,13 +8,11 @@ First, clone the repo by using:
 Then, CD into the repo and install python dependencies by doing:
 
 `# Windows:
-cd ExecuteCommandRemote
-py -m pip install flask
+cd ExecuteCommandRemote | py -m pip install flask
 `
 
 `# Mac and Linux:
-cd ExecuteCommandRemote
-python -m pip install flask
+cd ExecuteCommandRemote && python -m pip install flask
 `
 
 To start the program, make sure you are in the `ExecuteCommandRemote` directory and type:
